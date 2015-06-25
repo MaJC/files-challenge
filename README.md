@@ -6,7 +6,7 @@ Student web server link: http://students.washington.edu/cmach5/info343/files-cha
 Hi Kristen,
 
 Here is my repository with a HTML file talking about Daryl Dixon, my favorite fictional character, from the TV series
-The Walking Dead. Maybe you enjoy The Walking Dead as much as I do but if not, I hope you learned a little something about the 
+The Walking Dead. Maybe you enjoy The Walking Dead as much as I do but if not, I hope you learned a little something about 
 my favorite character from the amazing TV series.
 
 Sincerely,
